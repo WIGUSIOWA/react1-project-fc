@@ -6,6 +6,10 @@ const App = () => {
 		<>
 			<div>My React Project 1 FC!</div>
 			<Nav className={"container"}>Navigation</Nav>
+			<p>best horses ever company</p>
+			<button>Klikaj smiało</button>
+			<input type="number"></input>
+			<form></form>
 		</>
 	);
 };
