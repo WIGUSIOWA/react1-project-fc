@@ -1,0 +1,27 @@
+.container {
+	height: 70px;
+	background-color: goldenrod;
+}
+
+.brand {
+	display: flex;
+	color: #fff;
+	padding: 10px 0;
+	font-weight: 700;
+	font-size: 18px;
+}
+
+.list-items {
+	padding: 30px;
+	display: flex;
+	gap: 46px;
+	font-weight: 400;
+	font-size: 18px;
+	color: white;
+}
+
+.go-button {
+	cursor: pointer;
+	text-decoration: none;
+	color: white;
+}
