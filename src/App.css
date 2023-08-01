@@ -49,6 +49,7 @@ body {
 	font-weight: 400;
 	font-size: 18px;
 	color: #fff;
+	list-style: none;
 }
 
 .go-button {
@@ -292,24 +293,27 @@ div .offer-boxes {
 	color: #a0a5aa;
 }
 
-.footer-list {
-	display: flex;
-	gap: 40px;
-}
-
 .footer-part .container {
 	display: flex;
 	gap: 370px;
 }
 
 .footer-paragraph {
+	display:flex;
+	/* justify-content: center; */
+	align-items: center;
 	font-size: 18px;
 	color: #fff;
 }
 
 .footer-list {
 	display: flex;
-	gap: 18px;
+	/* justify-content: center; */
+	align-items: center;
+	
+	gap: 50px;
 	width: 18px;
 	height: 18px;
+	list-style: none;
+	font-size: 28px;
 }

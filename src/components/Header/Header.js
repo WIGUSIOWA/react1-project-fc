@@ -5,8 +5,8 @@ const Header = () => {
 		<header className="header-part">
 			<img
 				className="image"
-				src="./src/data/images/westernhorses-min.jpg"
-				alt=""
+				src="/images/westernhorses-min.jpg"
+				alt="company name"
 			/>
 			<div className="shadow">
 				<div className="container">
