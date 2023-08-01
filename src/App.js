@@ -1,4 +1,6 @@
 import "./App.css";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faTwitter, faFacebook } from "@fortawesome/free-brands-svg-icons";
 import Services from "./Services/Services";
 import Footer from "./components/Footer/Footer";
 import Header from "./components/Header/Header";
@@ -13,6 +15,8 @@ const App = () => {
 			<Mentors></Mentors>
 			<Services></Services>
 			<Footer></Footer>
+			<FontAwesomeIcon icon={faTwitter} color="blue" />
+			<FontAwesomeIcon icon={faFacebook} color="red" />
 		</>
 	);
 };
