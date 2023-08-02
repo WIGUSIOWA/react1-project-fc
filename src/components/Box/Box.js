@@ -1,7 +1,7 @@
 const Box = ({ title, isNew }) => {
 	return (
-		<div className="box">
-			{isNew && <div className="red-dot"></div>}
+		<div>
+			{isNew && <span className="circle"></span>}
 			<p>{title}</p>
 		</div>
 	);

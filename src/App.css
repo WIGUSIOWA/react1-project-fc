@@ -222,6 +222,7 @@ body {
 	font-weight: 400;
 	color: #565151;
 	transition: 1s;
+	position: relative;
 }
 
 .offer-boxes div:hover {
@@ -272,7 +273,7 @@ div .offer-boxes {
 	gap: 20px;
 }
 
-.offer-boxes .mentoring .circle {
+.circle {
 	width: 30px;
 	height: 30px;
 	border-radius: 50%;
