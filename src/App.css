@@ -272,7 +272,7 @@ div .offer-boxes {
 	gap: 20px;
 }
 
-.offer .offer-boxes .mentoring .circle {
+.offer-boxes .mentoring .circle {
 	width: 30px;
 	height: 30px;
 	border-radius: 50%;
@@ -299,7 +299,7 @@ div .offer-boxes {
 }
 
 .footer-paragraph {
-	display:flex;
+	display: flex;
 	/* justify-content: center; */
 	align-items: center;
 	font-size: 18px;
@@ -310,7 +310,6 @@ div .offer-boxes {
 	display: flex;
 	/* justify-content: center; */
 	align-items: center;
-	
 	gap: 50px;
 	width: 18px;
 	height: 18px;

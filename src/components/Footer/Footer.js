@@ -1,5 +1,5 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faTwitter, faFacebook } from "@fortawesome/free-brands-svg-icons";
+import { faInstagram, faFacebook } from "@fortawesome/free-brands-svg-icons";
 
 const Footer = () => {
 	return (
@@ -11,7 +11,7 @@ const Footer = () => {
 				<ul className="footer-list">
 					<li>
 						<FontAwesomeIcon
-							icon={faTwitter}
+							icon={faInstagram}
 							color="white
 						"
 						/>
