@@ -25,7 +25,6 @@ body {
 .container {
 	width: 960px;
 	margin: 0 auto;
-	/* background-color: lightseagreen; */
 }
 
 .navigation .container {
@@ -301,7 +300,6 @@ div .offer-boxes {
 
 .footer-paragraph {
 	display: flex;
-	/* justify-content: center; */
 	align-items: center;
 	font-size: 18px;
 	color: #fff;
@@ -309,7 +307,6 @@ div .offer-boxes {
 
 .footer-list {
 	display: flex;
-	/* justify-content: center; */
 	align-items: center;
 	gap: 50px;
 	width: 18px;

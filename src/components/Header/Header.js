@@ -1,5 +1,3 @@
-// import Container from "../Container/Container";
-
 const Header = () => {
 	return (
 		<header className="header-part">
