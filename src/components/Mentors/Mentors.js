@@ -1,3 +1,5 @@
+import "./Mentors.css";
+
 const Mentors = () => {
 	return (
 		<section className="experts">

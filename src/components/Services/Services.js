@@ -1,5 +1,7 @@
-
+// import "..//data/offer.js";
 import Box from "../Box/Box";
+import "./Services.css";
+
 
 
 const Services = () => {
