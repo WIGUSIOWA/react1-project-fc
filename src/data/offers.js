@@ -1,5 +1,3 @@
-// import { offers } from "./data";
-
 const ourOffer = [
 	{ id: 1, title: "nowość! mentoring szkolenia", isNew: true },
 	{ id: 2, title: "nauka jazdy konnej lub doskonalenie umiejętności" },
@@ -9,4 +7,4 @@ const ourOffer = [
 	{ id: 6, title: "wolontariat" },
 ];
 
-export default offers;
+export default ourOffer;

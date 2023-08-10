@@ -1,18 +1,11 @@
-// import "..//data/offer.js";
+import ourOffer from  "../../data/offers";
 import Box from "../Box/Box";
 import "./Services.css";
 
 
 
 const Services = () => {
-	const ourOffer = [
-		{ id: 1, title: "nowość! mentoring szkolenia", isNew: true },
-		{ id: 2, title: "nauka jazdy konnej lub doskonalenie umiejętności" },
-		{ id: 3, title: "tereny / rajdy" },
-		{ id: 4, title: "hipoterapia" },
-		{ id: 5, title: "wakacje w siodle" },
-		{ id: 6, title: "wolontariat" },
-	];
+	
 
 	return (
 		<section id="our-offer" className="offer">

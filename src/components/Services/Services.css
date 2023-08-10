@@ -1,6 +1,12 @@
-/* .offer {
+.offer {
 	background-color: #405d78;
 	padding-bottom: 65px;
+}
+
+.offer .main-second-heading {
+	color: ivory;
+	font-size: 36px;
+	padding: 50px 0;
 }
 
 .offer .container .offer-boxes {
@@ -79,4 +85,4 @@ div .offer-boxes {
 	position: absolute;
 	top: -15px;
 	left: -15px;
-} */
+}

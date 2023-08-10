@@ -9,9 +9,11 @@
 	z-index: 1;
 }
 
-.container {
-	height: 70px;
-	background-color: goldenrod;
+.navigation .container {
+	height: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
 }
 
 .brand {
@@ -29,6 +31,7 @@
 	font-weight: 400;
 	font-size: 18px;
 	color: white;
+	list-style: none;
 }
 
 .go-button {
@@ -37,3 +40,6 @@
 	color: white;
 }
 
+.disabled-button {
+	cursor: not-allowed;
+}
