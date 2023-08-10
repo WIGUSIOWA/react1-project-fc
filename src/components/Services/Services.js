@@ -1,5 +1,6 @@
-import Box from "../components/Box/Box.js";
-import offers from "../../data/offers.js";
+
+import Box from "../Box/Box";
+
 
 const Services = () => {
 	const ourOffer = [

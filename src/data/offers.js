@@ -1,4 +1,4 @@
-import { offers } from "./data";
+// import { offers } from "./data";
 
 const ourOffer = [
 	{ id: 1, title: "nowość! mentoring szkolenia", isNew: true },

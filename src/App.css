@@ -133,12 +133,17 @@ body {
 	font-size: 36px;
 	font-weight: 700;
 	color: #565151;
+	margin-top: 0;
 }
 
 .main-third-heading {
 	font-size: 18px;
 	font-weight: 700;
 	margin-bottom: 20px;
+}
+
+.name-Amelia {
+	text-align: end;
 }
 
 .experts-list {
@@ -155,6 +160,7 @@ body {
 
 .experts .main-second-heading {
 	padding: 50px 0;
+	margin-bottom: -20px;
 }
 
 .offer .main-second-heading {
@@ -175,6 +181,7 @@ body {
 	object-position: top;
 	object-fit: cover;
 	aspect-ratio: 1/1;
+	margin-bottom: 50px;
 }
 
 .par-Agnes {

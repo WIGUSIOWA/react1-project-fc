@@ -27,7 +27,11 @@ const Mentors = () => {
 					<li className="expert reversed">
 						<img src="images/AmeliaPhoto_640.jpg" alt="zdjęcie Amelii Dorosz" />
 						<div className="expert-info">
-							<h3 className="name-Amelia" class="main-third-heading">
+							<h3
+								className="name-Amelia"
+								// className="main-third-heading"
+								// className="name-Amelia"
+							>
 								Amelia Dorosz
 							</h3>
 							<p className="par-Amelia">
