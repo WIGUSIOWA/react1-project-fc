@@ -1,0 +1,82 @@
+.offer {
+	background-color: #405d78;
+	padding-bottom: 65px;
+}
+
+.offer .container .offer-boxes {
+	display: grid;
+	grid-template-columns: auto auto auto;
+	gap: 60px;
+	justify-content: center;
+}
+
+.offer .container .offer-boxes div {
+	width: 200px;
+	height: 200px;
+	background-color: rgb(255, 198, 55);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-weight: 400;
+	color: #565151;
+	transition: 1s;
+	position: relative;
+}
+
+.offer-boxes div:hover {
+	transform: scale(1.05);
+	cursor: pointer;
+}
+
+div .offer-boxes {
+	padding-top: 30px;
+}
+
+.offer-boxes p {
+	color: #405d78;
+	font-size: 24px;
+	text-align: center;
+}
+
+.mentoring {
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+}
+
+.learning-riding {
+	display: flex;
+	flex-direction: column;
+}
+
+.horse-riding-info {
+	margin: 10px 0;
+}
+
+.forest-riding {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+}
+
+.holidays {
+	display: flex;
+	flex-direction: column;
+}
+
+.job {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+}
+
+.circle {
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	background-color: magenta;
+	position: absolute;
+	top: -15px;
+	left: -15px;
+}

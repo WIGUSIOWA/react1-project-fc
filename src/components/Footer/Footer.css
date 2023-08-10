@@ -1,0 +1,32 @@
+.footer-part {
+	width: 100%;
+	height: 70px;
+	background-color: #222;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 30px;
+	color: #a0a5aa;
+}
+
+.footer-part .container {
+	display: flex;
+	gap: 370px;
+}
+
+.footer-paragraph {
+	display: flex;
+	align-items: center;
+	font-size: 18px;
+	color: #fff;
+}
+
+.footer-list {
+	display: flex;
+	align-items: center;
+	gap: 50px;
+	width: 18px;
+	height: 18px;
+	list-style: none;
+	font-size: 28px;
+}

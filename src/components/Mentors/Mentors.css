@@ -1,0 +1,74 @@
+.main-part .experts {
+	margin-bottom: 60px;
+}
+
+.main-second-heading {
+	font-size: 36px;
+	font-weight: 700;
+	color: #565151;
+	margin-top: 0;
+}
+
+.main-third-heading {
+	font-size: 18px;
+	font-weight: 700;
+	margin-bottom: 20px;
+}
+
+.name-Amelia {
+	text-align: end;
+}
+
+.experts-list {
+	display: flex;
+	flex-direction: column;
+}
+
+.expert {
+	display: flex;
+	text-align: row;
+	align-items: center;
+	gap: 60px;
+}
+
+.experts .main-second-heading {
+	padding: 50px 0;
+	margin-bottom: -20px;
+}
+
+.reversed {
+	flex-direction: row-reverse;
+	object-position: right;
+	gap: 60px;
+}
+
+.expert img {
+	width: 20%;
+	border-radius: 50%;
+	object-position: top;
+	object-fit: cover;
+	aspect-ratio: 1/1;
+	margin-bottom: 50px;
+}
+
+.par-Agnes {
+	font-size: 18px;
+}
+
+.par-Amelia {
+	text-align: right;
+	font-size: 18px;
+}
+
+.name-Amelia {
+	text-align: end;
+	font-weight: 700;
+	font-size: 18px;
+	margin-bottom: 20px;
+}
+
+.par-Agnes .par-Amelia {
+	font-size: 18px;
+	font-weight: 400;
+	color: #565151;
+}

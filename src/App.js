@@ -1,4 +1,4 @@
-import "./App.css";
+// import "./App.css";
 
 import Services from "./components/Services/Services";
 import Footer from "./components/Footer/Footer";
