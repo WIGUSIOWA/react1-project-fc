@@ -15,7 +15,9 @@ const Mentors = () => {
 							alt="zdjęcie Agnieszki Dorosz"
 						/>
 						<div className="expert-info">
-							<h3 className="main-third-heading">Agnieszka Dorosz</h3>
+							<h3 className="name-Agnes main-third-heading">
+								Agnieszka Dorosz
+							</h3>
 							<p className="par-Agnes">
 								Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque,
 								ratione eligendi quia pariatur dolore incidunt maiores. Commodi

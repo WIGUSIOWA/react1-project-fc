@@ -43,3 +43,13 @@
 .disabled-button {
 	cursor: not-allowed;
 }
+
+@media screen and (max-width: 769px) {
+	.container {
+		width: 90%;
+	}
+
+	.navigation .container .list-items {
+		display: none;
+	}
+}

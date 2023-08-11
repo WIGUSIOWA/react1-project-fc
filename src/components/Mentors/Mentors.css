@@ -29,7 +29,6 @@
 
 .experts .main-second-heading {
 	padding: 50px 0;
-	margin-bottom: -20px;
 }
 
 .reversed {
@@ -62,4 +61,49 @@
 
 .name-Amelia {
 	text-align: end;
+}
+
+@media screen and (max-width: 769px) {
+	.experts .experts-list {
+		display: flex;
+		flex-direction: column;
+		gap: 30px;
+	}
+
+	.main-second-heading {
+		font-size: 26px;
+	}
+
+	.expert {
+		display: flex;
+		flex-direction: column;
+		gap: 30px;
+	}
+
+	.expert img {
+		margin: 0;
+		width: 200px;
+	}
+
+	.experts .main-second-heading {
+		color: #565151;
+		text-align: center;
+		margin-bottom: 30px;
+	}
+
+	.name-Amelia {
+		text-align: center;
+	}
+
+	.name-Agnes {
+		text-align: center;
+	}
+
+	.par-Agnes {
+		text-align: justify;
+	}
+
+	.par-Amelia {
+		text-align: justify;
+	}
 }
