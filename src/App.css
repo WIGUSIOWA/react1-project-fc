@@ -1,13 +1,16 @@
+
+
 * {
 	box-sizing: border-box;
 }
 
 html {
+	
 	scroll-behavior: smooth;
 }
 
 body {
-	font-family: "Roboto", sans-serif;
+	font-family: Roboto, sans-serif;
 	background-color: ivory;
 }
 
@@ -15,3 +18,4 @@ body {
 	width: 960px;
 	margin: 0 auto;
 }
+

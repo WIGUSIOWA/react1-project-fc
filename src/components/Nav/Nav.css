@@ -27,7 +27,7 @@
 .list-items {
 	padding: 30px;
 	display: flex;
-	gap: 46px;
+	gap: 100px;
 	font-weight: 400;
 	font-size: 18px;
 	color: white;

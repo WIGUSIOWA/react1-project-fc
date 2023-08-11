@@ -48,7 +48,6 @@ div .offer-boxes {
 	position: relative;
 	display: flex;
 	flex-direction: column;
-	gap: 20px;
 }
 
 .learning-riding {
@@ -63,7 +62,6 @@ div .offer-boxes {
 .forest-riding {
 	display: flex;
 	flex-direction: column;
-	gap: 20px;
 }
 
 .holidays {
@@ -74,7 +72,6 @@ div .offer-boxes {
 .job {
 	display: flex;
 	flex-direction: column;
-	gap: 20px;
 }
 
 .circle {
