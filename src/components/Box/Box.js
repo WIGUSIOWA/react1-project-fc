@@ -1,3 +1,5 @@
+import "./Box.css";
+
 const Box = ({ title, isNew }) => {
 	return (
 		<div>

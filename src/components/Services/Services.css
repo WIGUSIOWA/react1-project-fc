@@ -74,16 +74,6 @@ div .offer-boxes {
 	flex-direction: column;
 }
 
-.circle {
-	width: 30px;
-	height: 30px;
-	border-radius: 50%;
-	background-color: magenta;
-	position: absolute;
-	top: -15px;
-	left: -15px;
-}
-
 @media screen and (max-width: 769px) {
 	.offer .main-second-heading {
 		font-size: 26px;
@@ -112,16 +102,6 @@ div .offer-boxes {
 
 	.mentoring {
 		position: relative;
-	}
-
-	.offer .container .offer-boxes .mentoring .circle {
-		width: 30px;
-		height: 30px;
-		border-radius: 50%;
-		background-color: magenta;
-		position: absolute;
-		top: -30px;
-		left: -15px;
 	}
 
 	.offer .container .offer-boxes {
